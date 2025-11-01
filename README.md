@@ -5,7 +5,7 @@
 
 ML-powered credit scoring API for mobile lending in Kenya with M-PESA integration.
 
-## 🚀 Live Demo
+##  Live Demo
 
 **API**: [Will be added after deployment]  
 **Docs**: [Will be added after deployment]/docs
@@ -127,4 +127,5 @@ env/
 .idea/
 
 # OS
+
 .DS_Store
