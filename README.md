@@ -18,10 +18,10 @@ ML-powered credit scoring API for mobile lending in Kenya with M-PESA integratio
 
 ## Features
 
-- ✅ Real-time credit risk prediction
-- ✅ M-PESA transaction analysis
-- ✅ REST API with automatic documentation
-- ✅ Kenya-specific features
+-  Real-time credit risk prediction
+-  M-PESA transaction analysis
+-  REST API with automatic documentation
+-  Kenya-specific features
 
 ## Quick Start
 
@@ -135,4 +135,5 @@ env/
 # OS
 
 .DS_Store
+
 
