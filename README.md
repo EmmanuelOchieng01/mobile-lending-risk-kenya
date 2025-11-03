@@ -1,5 +1,11 @@
 # 🇰🇪 Mobile Lending Risk API - Kenya
 
+## Problem Definition
+
+Across Kenya, mobile lending has become the everyday bank for millions — fast, digital, and accessible through a few taps. But while lending has gone mobile, risk assessment hasn’t kept up. Many platforms still depend on outdated rules or guesswork, leading to poor credit decisions, high defaults, and unfair loan rejections.
+
+This project builds a smarter alternative: a machine-learning API that reads real financial behavior — especially M-PESA transactions — to instantly predict a borrower’s credit risk. It gives lenders a data-driven, explainable, and human-centered way to decide who gets credit, creating a more inclusive and transparent digital lending ecosystem for Kenya.
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
@@ -100,7 +106,7 @@ mobile-lending-risk-kenya/
 
 ## Author
 
-Your Name - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+Your Name - [GitHub](https://github.com/EmmanuelOchieng01) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## License
 
@@ -129,3 +135,4 @@ env/
 # OS
 
 .DS_Store
+
